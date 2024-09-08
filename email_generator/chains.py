@@ -39,5 +39,4 @@ class Chain:
         return response.content
 
 
-if __name__ == "__main__":
-    print(os.getenv("GROQ_API_KEY"))
+chain = Chain()

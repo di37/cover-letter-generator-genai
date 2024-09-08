@@ -1,2 +1,2 @@
-from .chains import Chain
-from .portfolio import Portfolio
+from .chains import chain
+from .portfolio import portfolio
